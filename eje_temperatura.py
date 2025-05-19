@@ -24,3 +24,9 @@ elif temperatura_cali >= 40 and temperatura_cali < 50:
 
 elif temperatura_cali >= 60:
     print("temperatura extrema superamos los:",temperatura_cali,"°")  
+
+
+
+elif temperatura_cali >= 60:
+    print("temperatura extrema superamos los:",temperatura_cali,"°")  
+    

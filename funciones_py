@@ -1,0 +1,14 @@
+
+#def saludo(nombre,apellido):
+   
+ #   print("hola",nombre,apellido)
+
+#saludo("mario","delgado") 
+
+
+def saludo_dos(nombre,apellido):
+   return(nombre + " " + apellido)
+
+resultado = saludos_dos("mario","delgado")
+
+print(resultado)

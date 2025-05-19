@@ -1,0 +1,25 @@
+class personas():
+   def__int__(self, nombre, cedula, edad)):
+      self.nombre = nombre
+      self,cedula = cedula
+      self.edad = edad 
+
+    def hablar(self):
+      print("las personas pueden hablar")
+
+class Estudiantes(personas):
+      def __init__(self,nombre, cedula, edad, curso,):
+            super().__init__(nombre, cedula, edad)
+            self.curso = curso
+
+    def estudiante(self):
+      print(f"el estudiante esta cursando {self.curso}")
+
+estudiante1 = estudiante("juan", 123456, 30,"fisica")
+estudiantr2 = estudia()
+estudiante1 = habla()
+print
+docente1 = Docente("perro", 18495, 40, "fisica")
+docente1 = 
+
+

@@ -1,0 +1,12 @@
+
+goku = "luchador"
+
+vegeta = "oponente"
+
+naruto = "personaje"
+
+print(goku)
+print(vegeta)
+print("naruto")
+type(goku)
+print(type(goku))
